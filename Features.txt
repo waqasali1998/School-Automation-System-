@@ -1,0 +1,12 @@
+Features:
+School automation System provides functionality from applications and class enrollment to detailed performance monitoring and attendance. Administration management typically includes both faculty and students. Follwoing are the key features of school automation system
+
+•	Information about school
+•	Reviews system
+•	User friendly / easy to use
+•	Student/teacher registration
+•	Student search from either id,name, class or
+from all of them.
+•	Library management (add/remove books)
+•	Pending cv’s of teacher will show in admin panel can be approved and rejected.
+•	For each approval or rejection email will be sund automatically to teacher.
